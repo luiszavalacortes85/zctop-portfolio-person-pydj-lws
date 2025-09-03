@@ -1,7 +1,7 @@
 # zctop-portfolio-person-pydj-lws
 Portfolio de Persona un Lightweight Webservice en Python y DJango 
 
- source /home/lzavala/venv/bin/activate
+ source /home/${USER_NAME}/venv/bin/activate
  # 2. Instalar Django, DRF y requests
 pip install django djangorestframework requests
 
